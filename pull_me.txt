@@ -1,0 +1,11 @@
+
+[finish setup of actioncable and redis, but need to test on another system]
+### 12/04/2018[19:41 - 20:38]:
+* initial project setup
+* gen pages controller
+* set up pages routes
+* add basic html to index view
+* implement yarn and jquery
+* gen webnotifications channel
+* implement redis
+
