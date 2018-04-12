@@ -3,7 +3,7 @@ redis: &redis
   url: redis://localhost:6379
 
 development:
-  adapter: *redis
+  adapter: redis
 
 test:
   adapter: async
