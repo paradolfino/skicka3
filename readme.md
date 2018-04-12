@@ -10,3 +10,5 @@
 ##### 12/04/2018: 19:52 - 19:59:pool[implement yarn and jquery]
 
 ##### 12/04/2018: 19:59 - 20:01:pool[gen webnotifications channel]
+
+##### 12/04/2018: 20:01 - 20:38:pool[implement redis]
